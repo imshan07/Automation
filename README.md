@@ -1,2 +1,0 @@
-# Automation
-QA Automation practices
